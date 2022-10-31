@@ -269,6 +269,7 @@ Here is an outline of the categories:
 - [The Open Source Cardano Lottery](https://github.com/lley154/cardano-lottery)
 - [World of Pirates](https://worldofpirates.io)
 - [NMKR Games](https://www.nmkr.io/games)
+- [C4 Poker](https://c4poker.io/)
 
 ### Miscellaneous ###
 - [BlockchainArt.Works | 6M-BLOCKS](https://blockchainart.works/6m-blocks/)
